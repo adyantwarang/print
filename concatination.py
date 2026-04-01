@@ -1,0 +1,5 @@
+first = str("Congratulations on winning 1st place")
+second = str(" In the dodgeball competion on the school sport's day")
+third = str(" We are thankful for you participation in the activity")
+fourth = str("\n greetings ~ Principal Joe")
+print(first+second+third+fourth)
