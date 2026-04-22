@@ -1,0 +1,11 @@
+n = int(input("Enter n value: "))
+
+sum = 0
+i = 1
+while i <= n: 
+    sum = sum+i
+    i = i+1
+
+print("\nSum is",sum)
+    
+    
